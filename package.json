@@ -1,0 +1,25 @@
+{
+  "name": "rbac",
+  "version": "1.0.0",
+  "description": "Role Based Access Control\r <h2>Db diagram link</h2>\r <a href=\"https://drawsql.app/teams/gh-18/diagrams/rbac\">  click here</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnankhan6656/RBAC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnankhan6656/RBAC/issues"
+  },
+  "homepage": "https://github.com/adnankhan6656/RBAC#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.8",
+    "sequelize": "^6.37.3"
+  }
+}
